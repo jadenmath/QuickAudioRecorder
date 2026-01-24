@@ -45,6 +45,3 @@ To create the standalone executable:
 pip install pyinstaller
 pyinstaller --noconsole --onefile --name QuickAudioRecorder main.py
 ```
-
-## License
-MIT License
