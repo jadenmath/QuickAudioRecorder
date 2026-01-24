@@ -3,8 +3,15 @@
 **Quick Audio Recorder** is a minimalist, yet powerful tool for Windows to quickly record audio from your microphone, system audio (loopback), or both simultaneously.  
 It sits quietly in your system tray and is always ready with a single click or global hotkey.
 
+<img width="393" height="156" alt="image" src="https://github.com/user-attachments/assets/7e3bfcaf-6f58-4404-b85a-4ba0b6fea085" />
 
 ## Features
+
+
+
+
+<img width="575" height="724" alt="image" src="https://github.com/user-attachments/assets/b35131bc-1ff8-41e1-87b5-1e472f9da981" />
+
 
 -   **Modes:**
     -   🎤 **Microphone:** Record your voice.
