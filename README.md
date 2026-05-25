@@ -18,6 +18,16 @@ Before opening a larger PR, please check [CONTRIBUTING.md](CONTRIBUTING.md) for 
 
 ## Features
 
+### My favourite use case 💖
+
+Quickly recording audio and pasting it anywhere, e.g. into Anki cards.  
+*(Files can be set to auto-delete, so nothing stays on disk, the clip just lands in your clipboard.)*
+
+https://github.com/user-attachments/assets/14238816-c1ee-4914-9211-5f0007bfe999
+
+
+
+### Settings Showcase
 
 <img width="575" height="724" alt="image" src="https://github.com/user-attachments/assets/b35131bc-1ff8-41e1-87b5-1e472f9da981" />
 
