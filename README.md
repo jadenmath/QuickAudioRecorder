@@ -5,10 +5,29 @@ It sits quietly in your system tray and is always ready with a single click or g
 
 <img width="393" height="156" alt="image" src="https://github.com/user-attachments/assets/7e3bfcaf-6f58-4404-b85a-4ba0b6fea085" />
 
+## Contributing
+
+If you've forked this and built something useful on top, PRs are very welcome. Same goes for bug reports, open an issue, even if it's just "doesn't work on my machine, here's what I tried."
+
+A few things I'd find handy but haven't gotten around to: Linux/macOS support, more export formats, a proper config file instead of the current settings dialog. But honestly, anything you think makes the tool better is fair game. Keep it small and focused so it's easy to review.
+
+Before opening a larger PR, please check [CONTRIBUTING.md](CONTRIBUTING.md) for what's in scope and what to include.
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/lukmay/QuickAudioRecorder/pulls)
+[![Issues](https://img.shields.io/github/issues/lukmay/QuickAudioRecorder)](https://github.com/lukmay/QuickAudioRecorder/issues)
+
 ## Features
 
+### My favourite use case 💖
+
+Quickly recording audio and pasting it anywhere, e.g. into Anki cards.  
+*(Files can be set to auto-delete, so nothing stays on disk, the clip just lands in your clipboard.)*
+
+https://github.com/user-attachments/assets/14238816-c1ee-4914-9211-5f0007bfe999
 
 
+
+### Settings Showcase
 
 <img width="575" height="724" alt="image" src="https://github.com/user-attachments/assets/b35131bc-1ff8-41e1-87b5-1e472f9da981" />
 
